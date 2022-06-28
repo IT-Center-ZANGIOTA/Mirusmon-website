@@ -1,0 +1,48 @@
+div.ex1 {
+    width: 1440px;
+    height: 900px;
+    margin: auto;
+    border: 3px solid #73AD21;
+}
+
+.navbar-nav{
+    margin-left: 900px;
+}
+
+.text1{
+    width: 400px;
+    margin-left: 100px;
+    margin-top: 150px;
+}
+
+.text2{
+    width: 498px;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+.b1{
+    width: 208px;
+    height: 47px;
+    margin-top: 47px;
+    margin-left: 100px;
+
+    background: #FF6464;
+    border-radius: 0;
+    border: none;
+
+    color: #fff;
+}
+
+.button{
+    width: 62px;
+    height: 25px;
+    margin-left: -70px;
+    margin-top: 20px;
+
+    background: #142850;
+    border-radius: 15px;
+    border: none;
+
+    color: #ffffff;
+}

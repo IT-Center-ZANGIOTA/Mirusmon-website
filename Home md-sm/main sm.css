@@ -1,0 +1,30 @@
+body {
+    width: 360px;
+    height: 2165px;
+    margin: auto;
+}
+
+.b1{
+    width: 208px;
+    height: 47px;
+    margin-left: 55px;
+    margin-top: 35px;
+
+    background: #FF6464;
+    border-radius: 2px;
+
+    color: #fff;
+}
+.button{
+    width: 62px;
+    height: 25px;
+
+    background: #142850;
+    border-radius: 15px;
+    border: none;
+
+    color: #ffffff;
+}
+
+
+
