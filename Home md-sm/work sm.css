@@ -1,0 +1,30 @@
+body {
+    width: 375px;
+    height: 1500px;
+    margin: auto;
+}
+
+
+.button{
+    width: 62px;
+    height: 25px;
+    margin-top: 15px;
+
+    background: #142850;
+    border-radius: 15px;
+    border: none;
+
+    color: #ffffff;
+}
+
+.dlp{
+    margin-top: 10px;
+}
+
+.ws{
+    margin-left: 90px;
+    margin-top: -22px;
+
+
+    color: #8695A4;
+}
